@@ -1,4 +1,6 @@
 {
+  "game_enabled": false,
+  "game_version": 0.0.1,
   "initPane": {
      "isOn": true;
      "title": "Under development";
