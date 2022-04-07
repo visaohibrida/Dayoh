@@ -1,9 +1,9 @@
 {
   "game_enabled": false,
-  "game_version": 0.0.1,
+  "game_version": "0.0.1",
   "initPane": {
-     "isOn": true;
-     "title": "Under development";
+     "isOn": true,
+     "title": "Under development",
      "content": "bugs everywhere :( "
     
   }
