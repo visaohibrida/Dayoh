@@ -1,4 +1,4 @@
-"msg":{
+{"msg":{
    'year':2022,
    'month':11, 
    'day':26,
@@ -8,5 +8,6 @@
    'seconds':46774,
    'title': '001',
    'text': 'Testing'
+}
 }
 
